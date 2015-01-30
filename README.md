@@ -1,3 +1,3 @@
-# tic-tac-toe-console
+# Tic Tac Game 
 
 Tic Tac Toe Game Coded in 'C'
